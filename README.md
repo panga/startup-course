@@ -1,3 +1,3 @@
-Project for Startup Engineering Course
+Stanford - Startup Engineering Course - Exercises
 
 http://online.stanford.edu/course/startup-engineering
